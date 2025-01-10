@@ -7,9 +7,9 @@ PrepAI is an innovative platform designed to streamline interview preparation us
 
 ---
 
-## Features  
+Features  
 
-### 🎯 **Key Features**  
+🎯 **Key Features**  
 - **AI-Powered Feedback**: Real-time scoring and personalized insights using advanced AI models.  
 - **Simulated Interview Rounds**: Mimics real-world interview processes including coding challenges, group discussions, and HR interviews.  
 - **Dynamic Learning Content**: Adapts question difficulty based on user skill levels.  
@@ -132,7 +132,7 @@ PrepAI is an innovative platform designed to streamline interview preparation us
 
 - [x] Core features: Role-based dashboards, AI scoring, and dynamic content  
 - [x] Real-time interview simulation with Zoom SDK    
-- [ ] Advanced Analytics and Leaderboards   
+- [x] Advanced Analytics and Leaderboards   
 
 ---
 
