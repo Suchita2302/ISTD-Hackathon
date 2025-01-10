@@ -1,4 +1,4 @@
-Here’s a **README.md** for your **PrepAI** project:  
+
 
 
 #PrepAI: Your AI-Powered Interview Training and Simulation Platform  
