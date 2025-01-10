@@ -1,7 +1,7 @@
 Here’s a **README.md** for your **PrepAI** project:  
 
-```markdown
-# PrepAI: Your AI-Powered Interview Training and Simulation Platform  
+
+#PrepAI: Your AI-Powered Interview Training and Simulation Platform  
 
 PrepAI is an innovative platform designed to streamline interview preparation using AI-driven solutions. It combines real-time feedback, dynamic learning content, and full-spectrum interview simulations to provide a comprehensive and personalized learning experience.  
 
